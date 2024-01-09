@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    list-style: none;
+}
+
+.bg-gold{
+    background-color: goldenrod;
+}
+.logo{
+   width: 120px ;
+}
+
+footer{
+    height: 120px!important;
+}
