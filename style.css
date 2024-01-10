@@ -5,13 +5,18 @@
     list-style: none;
 }
 
-.bg-gold{
-    background-color: goldenrod;
+body{
+    background: linear-gradient(rgb(33, 151, 234), pink);
 }
 .logo{
    width: 120px ;
 }
-
+.navbar{
+    background: linear-gradient(pink,rgb(8, 138, 231));
+}
 footer{
     height: 120px!important;
+    background: linear-gradient(rgb(22, 149, 240), pink);
+    margin-top: 50px !important;
 }
+
