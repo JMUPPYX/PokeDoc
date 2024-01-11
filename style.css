@@ -15,11 +15,7 @@ body{
 .navbar{
     background: linear-gradient(pink,rgb(8, 138, 231));
 }
-
-/* FORMULAIRE */
-.w-49{
-    width: 49% !important;
-}
+/* formulaire */
 button .btn .btn-bg{
     background: linear-gradient(rgb(22, 149, 240), pink); 
 }

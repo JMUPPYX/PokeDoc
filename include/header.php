@@ -33,18 +33,9 @@
                 <div class="collapse navbar-collapse h-md-100" id="navbarSupportedContent">
                     <div class="">
                         <ul class="navbar-nav mb-2 mb-lg-0 h-100 px-2 ">
-                            <li class="nav-item py-3">
-                                <a class="nav-link active text-dark fs-5 fw-bold text-uppercase" aria-current="page"
-                                    href="index.php">Accueil</a>
-                            </li>
-                            <li class="nav-item py-3">
-                                <a class="nav-link active text-dark fs-5 fw-bold text-uppercase" aria-current="page"
-                                    href="potions.php">Potions</a>
-                            </li>
-                            <li class="nav-item py-3">
-                                <a class="nav-link active text-dark fs-5 fw-bold text-uppercase" aria-current="page"
-                                    href="contact.php">Contact</a>
-                            </li>
+                            <!-- lien de la boucle nav -->
+                          <?php include "include/navboucles.php"?>
+                        </ul>
                     </div>
                 </div>
             </div>
