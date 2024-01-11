@@ -17,7 +17,6 @@
         <!-- navbar -->
         <nav class="navbar navbar-expand-xl">
             <div class="container-fluid h-100">
-
                 <!-- logo de la navbar-->
                 <a class="navbar-brand" href="index.php">
                     <img class="logo" src="logo1-removebg-preview.png" alt="logo">
@@ -28,7 +27,6 @@
                     aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
                 <!-- debut des menu -->
                 <div class="collapse navbar-collapse h-md-100" id="navbarSupportedContent">
                     <div class="">

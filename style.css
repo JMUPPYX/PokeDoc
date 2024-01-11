@@ -19,11 +19,15 @@ body{
 button .btn .btn-bg{
     background: linear-gradient(rgb(22, 149, 240), pink); 
 }
+
 /* footer */
 footer{
     height: 120px!important;
     background: linear-gradient(rgb(22, 149, 240), pink);
     margin-top: 50px !important;
+}
+.pe-90{
+    padding-right: 90px;
 }
 
 

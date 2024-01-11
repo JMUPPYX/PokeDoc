@@ -1,6 +1,6 @@
- <section>
- <!-- formulaire  -->
- <div class="container pt-5 w-50">
+    <section>
+            <!-- formulaire  -->
+        <div class="container pt-5 w-50">
                 <form>
                     <div>
                         <h4 class="text-uppercase fw-bold">formulaire de contact</h4>
@@ -17,7 +17,7 @@
                                 aria-label="VOTRE PRENOM"> 
                         </div>
                     </div>
-    
+
                     <div class="row mt-4">
                         <!-- input du telephone -->
                         <div class="col-6">
@@ -43,11 +43,11 @@
                         <textarea class="bg-grey form-control rounded-0 w-100" id="exampleFormControlTextarea1"
                             rows="6"></textarea> 
                     </div>
-                    
+                    <!-- boutton  -->
                     <div class = "text-center">
                     <button type="submit" class="mt-5 btn-lg rounded-0 btn btn-bg text-dark fs-5 fw-bold btn-outline-secondary border border-3 rounded-3">Envoyer</button>
                     </div>
                 </form>
         </div>
-        </section>
+    </section>
 
