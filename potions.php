@@ -1,16 +1,15 @@
-<?php include "include/header.php";?>
+<?php include "utilities_php/header.php";?>
 
-    <body>
         <main>
         <!-- cards -->
             <section class="container-md w-66 m-auto">
             
-                <?php include "include/bouclescards.php";?>
+                <?php include "data_php/bouclescards.php";?>
                 </div>
             </div>
         </section>
     </main>
 
-        <?php include "include/footer.php";?>
-    </body>
-</html>
+<?php include "utilities_php/footer.php";?>
+  
+
