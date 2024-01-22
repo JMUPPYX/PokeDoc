@@ -8,10 +8,12 @@
 body{
     background: linear-gradient(rgb(33, 151, 234), pink);
 }
+
 /* header */
 .logo{
    width: 120px ;
 }
+
 .navbar{
     background: linear-gradient(pink,rgb(8, 138, 231));
 }
